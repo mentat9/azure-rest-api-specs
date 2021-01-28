@@ -2012,8 +2012,6 @@ webhostingplans
 webjob
 webjobs
 webproxy
-WebPubSub
-webpubsub
 websearch
 webservices
 Webspace
@@ -2071,6 +2069,7 @@ ProviderHub
 checkin
 regionality
 Resource
+metdata
 Metastores
 maintenancewindows
 Logix
