@@ -679,6 +679,7 @@ entrypoint
 enumdef
 environmentsettings
 EPSG
+erasureordestructionlog
 errordetail
 errored
 ESDNI
@@ -2531,6 +2532,8 @@ businessmetadata
 Qualys
 operatorconnect
 servermetrics
+usermetadata
+Relaytype
 Deboards
 Deregisters
 Dataworld
