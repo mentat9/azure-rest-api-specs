@@ -618,6 +618,7 @@ diskoperations
 Distcp
 Distro
 dllpath
+DMARC
 DMSDB
 DMTS
 Dnat
@@ -1782,6 +1783,7 @@ routable
 routingendpointhealth
 rpki
 RPKI
+rpmsg
 rpns
 RSAES
 RSASSA
